@@ -70,6 +70,10 @@
     .about-section .about-content .section-title {
       text-align: center;
     }
+    .about-skills {
+      flex: 0 0 75%;
+      max-width: 75%;
+    }
     .portfolio .portfolio-item,
     .experience-section .experience-item {
       flex: 0 0 50%;
